@@ -12,6 +12,15 @@
 "https://github.com/SVVor/NewSpringMemberProject/blob/main/springMemberProject/show/1.PNG"/>
 <hr>
 <br>
+<h2>구동스크린샷<h2>
+<img src=
+"https://github.com/SVVor/NewSpringMemberProject/blob/main/springMemberProject/show/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B71.PNG"/><br>
+<img src=
+"https://github.com/SVVor/NewSpringMemberProject/blob/main/springMemberProject/show/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B75.PNG"/><br>
+<img src=
+"https://github.com/SVVor/NewSpringMemberProject/blob/main/springMemberProject/show/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B76.PNG"/><br>
+<br>
+<hr>
 <h2>Table</h2>
 <img src=
 "https://github.com/SVVor/NewSpringMemberProject/blob/main/springMemberProject/show/board_%ED%85%8C%EC%9D%B4%EB%B8%94.PNG"/><br>
